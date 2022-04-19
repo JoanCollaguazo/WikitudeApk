@@ -20,6 +20,7 @@
         android:src="@drawable/logogeneral"
         android:translationY="2dp" />
 
+
     <ScrollView
         style="@android:style/Widget.DeviceDefault.ScrollView"
         android:layout_width="match_parent"
@@ -110,7 +111,6 @@
 
         </LinearLayout>
     </ScrollView>
-
 
     <Button
         android:id="@+id/btnCamera"
